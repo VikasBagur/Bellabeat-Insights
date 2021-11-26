@@ -29,6 +29,7 @@ Combining the credibility of both the entities, we can say that the datasets are
 
 **Insights:**
 1. Calories burnt:
+
 	a. For the duration for which we have the data, we can see that the users have spent most calories from 9 am to 7 pm, with the calories burnt increasing towards the end. 	  We can assume that this is because everyone goes to work during the day and exercise during the evening time. We can use this data to suggest a reminder for new users to 	    start working out anytime from 5 pm to 7 pm till they set their own. 
 	
 	b. In order to maintain energy and have a healthy body, it is recommended that people drink 2.7 to 3.7 liters of water depending on their gender. When we burn calories, 	 we lose water when we burn calories and since most of the calories burnt is during the daytime and the intensity of the activity is also high along with high step               counts, we can send a reminder to users to stay hydrated.
