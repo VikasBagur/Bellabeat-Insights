@@ -29,6 +29,7 @@ Combining the credibility of both the entities, we can say that the datasets are
 
 **Insights:**
 1. Calories burnt:
+
 ![image](https://user-images.githubusercontent.com/65936796/143815779-dc95c223-e9f3-41a6-898f-ada96fbe05cd.png)
 
 	a. For the duration for which we have the data, we can see that the users have spent most calories from 9 am to 7 pm, with the calories burnt increasing towards the end. 	  We can assume that this is because everyone goes to work during the day and exercise during the evening time. We can use this data to suggest a reminder for new users to 	    start working out anytime from 5 pm to 7 pm till they set their own. 
@@ -36,11 +37,13 @@ Combining the credibility of both the entities, we can say that the datasets are
 	b. In order to maintain energy and have a healthy body, it is recommended that people drink 2.7 to 3.7 liters of water depending on their gender. When we burn calories, 	 we lose water when we burn calories and since most of the calories burnt is during the daytime and the intensity of the activity is also high along with high step               counts, we can send a reminder to users to stay hydrated.
 	
 2. BMI > 25:
+
 ![image](https://user-images.githubusercontent.com/65936796/143815799-23868dd1-b7fe-405b-ae38-952f84f94fd3.png)
 
 	a. Whenever we see ads for wearable activity trackers, we see fit, lean or muscular people wearing them to track their activities, we never see unfit and fat people 		wearing them to track their fitness progress. Because of such ads, unfit people might not be motivated to buy the trackers as they might feel they don't deserve it. But 	according to our data 62.5% of our users have a BMI greater than 25, which includes overweight and obese people. We can use this insight to motivate more people to get 	fit and use our trackers for logging their progress.
 	
 3. 7 hours of sleep:
+
 ![image](https://user-images.githubusercontent.com/65936796/143815813-7dd9796d-45c2-4505-845f-66b795fc275a.png)
 
 	a. According to CDC, an adult (18-60 years) should sleep for 7 or more hours every night. But, when we look at our data, for the duration of data collected, 75% of our 	users sleep on an average of less than 7 hours every night. We can create awareness of the importance of sleep and notify our users to get more sleep.
