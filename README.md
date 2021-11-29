@@ -28,7 +28,7 @@ There are 2 entities whose credibility we need to check: Fitbit and Mobius
 Combining the credibility of both the entities, we can say that the datasets are reliable and credible. But use of different types of Fitbit trackers and individual tracking behaviors/preference could have led to variation between output. 
 
 **Insights:**
-1. Calories burnt:
+**1. Calories burnt:**
 
 ![image](https://user-images.githubusercontent.com/65936796/143815779-dc95c223-e9f3-41a6-898f-ada96fbe05cd.png)
 
@@ -36,13 +36,13 @@ a. For the duration for which we have the data, we can see that the users have s
 	
 b. In order to maintain energy and have a healthy body, it is recommended that people drink 2.7 to 3.7 liters of water depending on their gender. When we burn calories, 	 we lose water when we burn calories and since most of the calories burnt is during the daytime and the intensity of the activity is also high along with high step               counts, we can send a reminder to users to stay hydrated.
 	
-2. BMI > 25:
+**2. BMI > 25:**
 
 ![image](https://user-images.githubusercontent.com/65936796/143815799-23868dd1-b7fe-405b-ae38-952f84f94fd3.png)
 
 a. Whenever we see ads for wearable activity trackers, we see fit, lean or muscular people wearing them to track their activities, we never see unfit and fat people 		wearing them to track their fitness progress. Because of such ads, unfit people might not be motivated to buy the trackers as they might feel they don't deserve it. But 	according to our data 62.5% of our users have a BMI greater than 25, which includes overweight and obese people. We can use this insight to motivate more people to get 	fit and use our trackers for logging their progress.
 	
-3. 7 hours of sleep:
+**3. 7 hours of sleep:**
 
 ![image](https://user-images.githubusercontent.com/65936796/143815813-7dd9796d-45c2-4505-845f-66b795fc275a.png)
 
