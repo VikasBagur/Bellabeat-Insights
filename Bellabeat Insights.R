@@ -61,6 +61,6 @@ insight_3$addData(data.frame(sleep_ids, sleep_less_than_7, percentage_people_sle
 insight_3$theme <- "largeplain"
 insight_3$renderTable(styleNamePrefix="t2")
 
-?basictabler
+
 
 
