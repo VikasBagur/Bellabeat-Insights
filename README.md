@@ -38,7 +38,7 @@ b. In order to maintain energy and have a healthy body, it is recommended that p
 	
 **2. BMI > 25:**
 
-![image](https://user-images.githubusercontent.com/65936796/143896888-adbc38f4-5d1b-475d-8bcd-de87b8bef86d.png)
+![image](https://user-images.githubusercontent.com/65936796/144178680-b4c02c0e-3e2a-4b88-a523-c0a756c0b7f1.png)
 
 a. Whenever we see ads for wearable activity trackers, we see fit, lean or muscular people wearing them to track their activities, we never see unfit and fat people 		wearing them to track their fitness progress. Because of such ads, unfit people might not be motivated to buy the trackers as they might feel they don't deserve it. But 	according to our data **62.5% of our users have a BMI greater than 25**, which includes overweight and obese people. We can use this insight to motivate more people to get 	fit and use our trackers for logging their progress.
 	
