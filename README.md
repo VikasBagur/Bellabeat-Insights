@@ -27,7 +27,7 @@ There are 2 entities whose credibility we need to check: Fitbit and Mobius
 	
 Combining the credibility of both the entities, we can say that the datasets are reliable and credible. But use of different types of Fitbit trackers and individual tracking behaviors/preference could have led to variation between output. 
 
-**Insights:**
+**Insights and Recommendations**
 **1. Calories burnt:**
 
 ![image](https://user-images.githubusercontent.com/65936796/143815779-dc95c223-e9f3-41a6-898f-ada96fbe05cd.png)
