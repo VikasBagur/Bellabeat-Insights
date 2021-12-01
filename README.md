@@ -5,13 +5,11 @@ Analyze usage data from non-Bellabeat smart device in order to gain insights and
 
 **Key stakeholders:**
 
-		a. Urška Sršen, Cofounder and Chief Creative Officer of Bellabeat
+a. Urška Sršen, Cofounder and Chief Creative Officer of Bellabeat
 		
-		b. Sando Mur, Mathematician and cofounder of Bellabeat
+b. Sando Mur, Mathematician and cofounder of Bellabeat
 		
-		c. The rest of the Bellabeat marketing analytics team
-
-
+c. The rest of the Bellabeat marketing analytics team
 
 **Data:**
 
