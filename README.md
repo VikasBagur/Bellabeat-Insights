@@ -4,8 +4,11 @@
 Analyze usage data from non-Bellabeat smart device in order to gain insights and use them to recommend marketing strategy for the growth of Bellabeat Ivy.
 
 **Key stakeholders:**
+
 		a. Urška Sršen, Cofounder and Chief Creative Officer of Bellabeat
+		
 		b. Sando Mur, Mathematician and cofounder of Bellabeat
+		
 		c. The rest of the Bellabeat marketing analytics team
 
 
