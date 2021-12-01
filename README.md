@@ -49,5 +49,7 @@ a. Whenever we see ads for wearable activity trackers, we see fit, lean or muscu
 a. According to CDC, an adult (18-60 years) **should sleep for 7 or more hours** every night. But, when we look at our data, for the duration of data collected, **50% of our users sleep on an average of less than 7 hours** every night. We should congratulate half of our users and remind them to keep up the good work while we can create awareness of the importance of sleep and notify rest of our users to get more sleep.
 
 *The Visualizations are created in Tableau. Link: https://public.tableau.com/views/BellabeatInsights/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 *SQL codes are written MySQL Server
+
 *RStudio has been used for the codes in R
