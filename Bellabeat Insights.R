@@ -6,6 +6,7 @@ hourly_calories <- read_csv("C:/Users/vikas/Desktop/My files/Course/Google Data 
 hourly_intensities <- read_csv("C:/Users/vikas/Desktop/My files/Course/Google Data Analytics/Portfolio/Bellabeat/Datasets/hourlyIntensities_merged.csv")
 hourly_steps <- read_csv("C:/Users/vikas/Desktop/My files/Course/Google Data Analytics/Portfolio/Bellabeat/Datasets/hourlySteps_merged.csv")
 
+#Cleaning of Data
 hourly_calories$date <- as.Date(hourly_calories$ActivityHour, format = "%m/%d/%Y")
 hourly_calories$time <- format(strptime(hourly_calories$ActivityHour, "%m/%d/%Y %I:%M:%S %p"), "%H:%M:%S")
 
