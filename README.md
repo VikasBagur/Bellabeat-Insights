@@ -53,6 +53,6 @@ a. According to CDC, an adult (18-60 years) **should sleep for 7 or more hours**
 
 *The Visualizations are created in Tableau. Link: https://public.tableau.com/views/BellabeatInsights/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-*SQL codes are written MySQL Server
+*SQL codes are written SQL Server
 
 *RStudio has been used for the codes in R
